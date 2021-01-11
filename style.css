@@ -1,0 +1,19 @@
+h1 
+{ 
+    color: red;
+    font-family:cursive;
+}
+
+p
+{
+    color: blue;
+}
+
+body
+{
+    background: rgb(223, 214, 214);
+    font-family: comic sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.6em;
+}
